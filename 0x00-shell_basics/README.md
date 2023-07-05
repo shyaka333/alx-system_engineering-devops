@@ -1,1 +1,1 @@
-0 current working directory
+task 1 shell basics
