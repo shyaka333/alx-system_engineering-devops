@@ -1,1 +1,1 @@
-task 6 shell basics
+task 7 shell basics
